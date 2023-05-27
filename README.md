@@ -4,6 +4,6 @@
 
 [![google scholar](https://img.shields.io/badge/link-google%20scholar-blue)](https://scholar.google.com/citations?user=e8iSNuwAAAAJ&hl=en)
 
-| <a href="https://github.com/dylanwal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dylanwal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/dylanwal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanwal&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dylanwal/github-readme-stats&rank_icon=github"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dylanwal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/dylanwal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanwal&layout=compact&theme=buefy&hide_border=true" /></a> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
